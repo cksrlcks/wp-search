@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wp-search/static/css/main.b354738a.chunk.css",
+    "main.css": "/wp-search/static/css/main.a732a0fb.chunk.css",
     "main.js": "/wp-search/static/js/main.302df745.chunk.js",
     "main.js.map": "/wp-search/static/js/main.302df745.chunk.js.map",
     "runtime-main.js": "/wp-search/static/js/runtime-main.c01eea19.js",
@@ -8,15 +8,15 @@
     "static/js/2.3add63c9.chunk.js": "/wp-search/static/js/2.3add63c9.chunk.js",
     "static/js/2.3add63c9.chunk.js.map": "/wp-search/static/js/2.3add63c9.chunk.js.map",
     "index.html": "/wp-search/index.html",
-    "precache-manifest.f8cd8e184ff4855dab3f81e4e2f5d307.js": "/wp-search/precache-manifest.f8cd8e184ff4855dab3f81e4e2f5d307.js",
+    "precache-manifest.e55fe20f70782d38af71d744511ac8e8.js": "/wp-search/precache-manifest.e55fe20f70782d38af71d744511ac8e8.js",
     "service-worker.js": "/wp-search/service-worker.js",
-    "static/css/main.b354738a.chunk.css.map": "/wp-search/static/css/main.b354738a.chunk.css.map",
+    "static/css/main.a732a0fb.chunk.css.map": "/wp-search/static/css/main.a732a0fb.chunk.css.map",
     "static/js/2.3add63c9.chunk.js.LICENSE.txt": "/wp-search/static/js/2.3add63c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c01eea19.js",
     "static/js/2.3add63c9.chunk.js",
-    "static/css/main.b354738a.chunk.css",
+    "static/css/main.a732a0fb.chunk.css",
     "static/js/main.302df745.chunk.js"
   ]
 }
