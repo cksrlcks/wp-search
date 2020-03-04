@@ -120,6 +120,16 @@ body{
         background: #fff;
         padding: 2em;
         margin-bottom:1em;
+        transition: all 0.2s;
+        &:hover{
+            border-color:#ccc;
+            -webkit-box-shadow: 0px 2px 44px -10px rgba(0,0,0,0.19);
+            -moz-box-shadow: 0px 2px 44px -10px rgba(0,0,0,0.19);
+            box-shadow: 0px 2px 44px -10px rgba(0,0,0,0.19);
+        }
+        a{
+            display:block;
+        }
 
         .title{
             font-size:1.3em;

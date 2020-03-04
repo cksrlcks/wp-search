@@ -37,7 +37,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -58,5 +60,6 @@
   "main": "index.js",
   "repository": "https://github.com/cksrlcks/wp-search.git",
   "author": "heavybear",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://cksrlcks.github.io/wp-search/"
 }
